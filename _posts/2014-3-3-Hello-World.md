@@ -1,9 +1,10 @@
 ---
 layout: post
 title: You're up and running!
-published: true
+published: false
 ---
-![]({{site.baseurl}}/_posts/IMG_1371%202.JPG)
+![]({{site.baseurl}}/_posts/IMG_1371%202.JPG)![IMG_1371 2.JPG]({{site.baseurl}}/_posts/IMG_1371 2.JPG)
+
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
